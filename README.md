@@ -27,4 +27,22 @@ system.
 
 <img width="386" height="181" alt="6" src="https://github.com/user-attachments/assets/91fa60e5-d7e4-47ab-a891-d8723318486f" />
 
+then the -w3 is a wait time of 3 seconds and then terminate the connection.
+
+<img width="445" height="211" alt="7" src="https://github.com/user-attachments/assets/fe9cf9d9-f587-492c-9acf-126788cb4c9d" />
+
+When we go back to our metasplotable machine we can see in the list content that inbox.txt is there. That is the bobsfile.txt
+from the kali machine.
+
+<img width="713" height="277" alt="8" src="https://github.com/user-attachments/assets/4e6198f2-d606-4e53-9981-d71aa0539074" />
+
+let's display the inbox.txt contents using **cat** 
+
+<img width="680" height="611" alt="9" src="https://github.com/user-attachments/assets/18c6630c-6737-4498-9820-a1aed7565413" />
+
+<img width="827" height="597" alt="10" src="https://github.com/user-attachments/assets/1535e4f0-0a91-4c42-86d5-859a2ed49763" 
+
+
+
+
 
