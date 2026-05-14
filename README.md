@@ -20,3 +20,11 @@ Next we are going to set up netcat to listen and receive our file from our Kali 
 We will accept the incoming txt file as inbox.txt
 
 <img width="704" height="244" alt="4" src="https://github.com/user-attachments/assets/fa5afb8f-b68c-4c3d-a0ee-900e84f15016" />
+
+Now back at our Kali system, we placed in our command:
+This command tells netcat to take the data from Bobsfile.txt and send it through the network using input redirection to the metasplotable
+system.
+
+<img width="386" height="181" alt="6" src="https://github.com/user-attachments/assets/91fa60e5-d7e4-47ab-a891-d8723318486f" />
+
+
