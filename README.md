@@ -40,9 +40,7 @@ let's display the inbox.txt contents using **cat**
 
 <img width="680" height="611" alt="9" src="https://github.com/user-attachments/assets/18c6630c-6737-4498-9820-a1aed7565413" />
 
-<img width="827" height="597" alt="10" src="https://github.com/user-attachments/assets/1535e4f0-0a91-4c42-86d5-859a2ed49763" 
+<img width="827" height="597" alt="10" src="https://github.com/user-attachments/assets/9c6b2436-2802-45b3-9789-ddf39e6358bf" />
 
 
-
-
-
+In closing, We had our metasploitable system listen and receive a txt file called bobsfile.txt from our kali system as inbox.txt.
