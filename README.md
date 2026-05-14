@@ -43,4 +43,4 @@ let's display the inbox.txt contents using **cat**
 <img width="827" height="597" alt="10" src="https://github.com/user-attachments/assets/9c6b2436-2802-45b3-9789-ddf39e6358bf" />
 
 
-In closing, We had our metasploitable system listen and receive a txt file called bobsfile.txt from our kali system as inbox.txt.
+**In closing, We had our metasploitable system listen and receive a txt file called bobsfile.txt from our kali system as inbox.txt.**
